@@ -12,9 +12,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/tags/web-dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Why I Switched to Hugo</title>
+      <link>https://lifei.tech/posts/jekyll-to-hugo/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lifei.tech/posts/jekyll-to-hugo/</guid>
+      <description>Previously, I built my website with Jekyll. After careful consideration, now I decide to switch to Hugo. The reason is straightforward:
+Speed.
+Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rsquo;s official website. My initial reasons for choosing Jekyll include its integration with GitHub Pages, good documentation, wide range of themes and plugins. But when I have some 20 posts, it takes me 5~6+ seconds to build the site, and it takes around 4 seconds for saving edits in live preview, which is almost unbearable!</description>
+    </item>
+    
+    <item>
       <title>Past Blog Posts</title>
       <link>https://lifei.tech/posts/past-posts/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lifei.tech/posts/past-posts/</guid>
       <description>https://lifeitech.github.io</description>

@@ -5,9 +5,6 @@
     <loc>https://lifei.tech/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lifei.tech/posts/past-posts/</loc>
-    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lifei.tech/posts/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
   </url><url>
@@ -16,6 +13,12 @@
   </url><url>
     <loc>https://lifei.tech/tags/web-dev/</loc>
     <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.tech/posts/jekyll-to-hugo/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.tech/posts/past-posts/</loc>
+    <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lifei.tech/archives/</loc>
   </url><url>
