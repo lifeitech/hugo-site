@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>reinforce on ExampleSite</title>
+    <link>https://examplesite.com/tags/reinforce/</link>
+    <description>Recent content in reinforce on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Apr 2022 16:30:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/reinforce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The REINFORCE Algorithm</title>
+      <link>https://examplesite.com/posts/2022-04-30-reinforce-algorithm/</link>
+      <pubDate>Sat, 30 Apr 2022 16:30:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-04-30-reinforce-algorithm/</guid>
+      <description>In this short post, we give an introduction to the REINFORCE algorithm.
+The REINFORCE algorithm {% cite williams1992simple %} is a method used to evaluate parameter gradients of an expectation that does not depend on the parameter in a differentiable way. It comes from reinforcement learning. In such a setting, an agent is in an environment represented by a set of states, and each of his action leads to a reward and the next state.</description>
+    </item>
+    
+  </channel>
+</rss>

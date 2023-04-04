@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>javascript on ExampleSite</title>
+    <link>https://examplesite.com/tags/javascript/</link>
+    <description>Recent content in javascript on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Mar 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing BeeNote, a Full Stack Web App Built with Next.js 13</title>
+      <link>https://examplesite.com/posts/2023-03-11-beenote/</link>
+      <pubDate>Sat, 11 Mar 2023 09:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2023-03-11-beenote/</guid>
+      <description>Vercel released Next.js 13 at the end of October 2022, which was quite a big thing in frontend development. One of its biggest feature is the app directory for routing. I decided to try it out, so I built a full stack web application for taking language notes, with Next.js 13 + Tailwind + DaisyUI + PocketBase + AWS SES. In this post I will give you an introduction to this application.</description>
+    </item>
+    
+    <item>
+      <title>Building Cross-platform Mobile Apps with React Native</title>
+      <link>https://examplesite.com/posts/2023-01-18-pixel-weather/</link>
+      <pubDate>Wed, 18 Jan 2023 15:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2023-01-18-pixel-weather/</guid>
+      <description>I built a mobile app for checking weather &amp;ndash; called &amp;ldquo;Pixel Weather&amp;rdquo; &amp;ndash; with React Native. I will talk about cross-platform app development, and give a walkthrough of this project in this post.
+Cross Platform vs Native Development When it comes to cross-platform mobile app development, there are two main choices: one is Facebook&amp;rsquo;s React Native, and the other is Google&amp;rsquo;s Flutter. In the former, you use the React framework and write JavaScript code to develop your mobile app.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>flow on ExampleSite</title>
+    <link>https://examplesite.com/tags/flow/</link>
+    <description>Recent content in flow on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 15 Jan 2022 13:25:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/flow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative Models: from Noise to Data</title>
+      <link>https://examplesite.com/posts/2022-01-15-generative-models/</link>
+      <pubDate>Sat, 15 Jan 2022 13:25:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-01-15-generative-models/</guid>
+      <description>In this post I give an introduction to several generative models in deep learning literature, including adversarial networks (GANs), variational autoencoder (VAE) and flow models. I also derive the formula for evaluating flow densities on generated samples.
+Deep generative models concern the problem of finding high dimensional data distribution, and new data generation. There are four major types of generative models in the literature: generative adversarial networks (GANs) [1], variational autoencoder (VAE) [2], normalizing flows [3,4,5], plus autoregressive models [6].</description>
+    </item>
+    
+  </channel>
+</rss>

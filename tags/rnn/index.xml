@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rnn on ExampleSite</title>
+    <link>https://examplesite.com/tags/rnn/</link>
+    <description>Recent content in rnn on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Apr 2022 22:00:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/rnn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RNN, LSTM and GRU</title>
+      <link>https://examplesite.com/posts/2022-04-08-rnn/</link>
+      <pubDate>Fri, 08 Apr 2022 22:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-04-08-rnn/</guid>
+      <description>In this post we introduce the recurrent neural network (RNN) model in natural language processing (NLP), as well as two improvements over it, long short-term memories (LSTM) and gated recurrent units (GRU).
+Natural languages are non-linear. Flows of words and sentences in texts often do not follow simple and predictable patterns. The probability of a word appearing at position $i$ may depend on some words at very far past, instead of always depending on 2 or 3 words behind it.</description>
+    </item>
+    
+  </channel>
+</rss>

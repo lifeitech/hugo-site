@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nlp on ExampleSite</title>
+    <link>https://examplesite.com/tags/nlp/</link>
+    <description>Recent content in nlp on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 11 Apr 2022 22:30:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Attention and Transformers</title>
+      <link>https://examplesite.com/posts/2022-04-11-attention-and-transformers/</link>
+      <pubDate>Mon, 11 Apr 2022 22:30:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-04-11-attention-and-transformers/</guid>
+      <description>In recent years, Transformer-based models are trending and are quickly taking up not only the field of NLP, but also computer vision and many other fields in AI. In this post, we give a tutorial on Transformer, and talk about several state of the arts models based on it, including GPT and BERT.
+The Attention Model Even with LSTM units, problems remain for recurrent neural network models:
+Passing data forward through an extended series of recurrent connections leads to loss of information and to difficulties in training.</description>
+    </item>
+    
+    <item>
+      <title>RNN, LSTM and GRU</title>
+      <link>https://examplesite.com/posts/2022-04-08-rnn/</link>
+      <pubDate>Fri, 08 Apr 2022 22:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-04-08-rnn/</guid>
+      <description>In this post we introduce the recurrent neural network (RNN) model in natural language processing (NLP), as well as two improvements over it, long short-term memories (LSTM) and gated recurrent units (GRU).
+Natural languages are non-linear. Flows of words and sentences in texts often do not follow simple and predictable patterns. The probability of a word appearing at position $i$ may depend on some words at very far past, instead of always depending on 2 or 3 words behind it.</description>
+    </item>
+    
+    <item>
+      <title>Sequence Labeling with HMM and CRF</title>
+      <link>https://examplesite.com/posts/2022-03-26-sequence-labeling/</link>
+      <pubDate>Sat, 26 Mar 2022 09:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-03-26-sequence-labeling/</guid>
+      <description>Sequence labeling is a classical task in natural language processing. In this task, a program is expected to recognize certain information given a piece of text. This is challenging, because even though input data items in real application can look similar, there may be small variations here and there that are comprehensible to humans but nevertheless are not present in other data items, so that it is difficult to use hard coded rules for solving the problem.</description>
+    </item>
+    
+    <item>
+      <title>Embeddings and the word2vec Method</title>
+      <link>https://examplesite.com/posts/2022-03-20-embedding-and-word2vec/</link>
+      <pubDate>Sun, 20 Mar 2022 09:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-03-20-embedding-and-word2vec/</guid>
+      <description>On its surface, words are not numbers. But words have similarities, differences, associations, relations and connections. For example, &amp;lsquo;&amp;lsquo;man&amp;rsquo;&amp;rsquo; and &amp;lsquo;&amp;lsquo;woman&amp;rsquo;&amp;rsquo; are words that describe humans, while &amp;lsquo;&amp;lsquo;apple&amp;rsquo;&amp;rsquo; and &amp;lsquo;&amp;lsquo;watermelon&amp;rsquo;&amp;rsquo; are fruit names. The flow of words in an article always follow certain rules. How to quantify a word so as to reflex its relationship with other words, as well as its statistics in training text data? In this post, we&amp;rsquo;ll look at word embeddings, i.</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing, Probabilities and the n-gram Model</title>
+      <link>https://examplesite.com/posts/2022-03-05-nlp-prob-ngram/</link>
+      <pubDate>Sat, 05 Mar 2022 16:20:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-03-05-nlp-prob-ngram/</guid>
+      <description>This is the first one of a series of posts on Natural Language Processing (NLP). We give an introduction to the subject, mention two model evaluation methods, see how to assign probabilities to words and sentences, and learn the most basic model &amp;mdash;&amp;mdash; the n-gram model in NLP.
+Introduction The field of Natural Language Processing (NLP) is concerned with automatic processing of language data. It arose with the widespread usage of the Internet.</description>
+    </item>
+    
+  </channel>
+</rss>

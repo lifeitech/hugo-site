@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>database on ExampleSite</title>
+    <link>https://examplesite.com/tags/database/</link>
+    <description>Recent content in database on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jun 2022 11:00:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>All about SQL Queries</title>
+      <link>https://examplesite.com/posts/2022-06-01-sql/</link>
+      <pubDate>Wed, 01 Jun 2022 11:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-06-01-sql/</guid>
+      <description>This post serves as a reference for SQL syntax. We cover the most frequently used commands, including &amp;ldquo;case when&amp;rdquo;, &amp;ldquo;join&amp;rdquo; and functions.
+TOC {:toc} A database is a software for storing data. There are many many databases available. They can be broadly classified into two categories: one is relational database, including MySQL and PostgreSQL. They other category is non-relational database, including MongoDB, Cassandra, neo4j, Dgraph and many others. Here we are concerned with SQL, the common syntax for querying relational databases.</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s three big data technologies: GFS, Bigtable and MapReduce</title>
+      <link>https://examplesite.com/posts/2022-05-15-google-big-data/</link>
+      <pubDate>Sun, 15 May 2022 18:38:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-05-15-google-big-data/</guid>
+      <description>Have you wondered about the inner workings of big data? How parallel and distributed computing work? In this post we will have a look at Google&amp;rsquo;s three early works in the 2000s that are the basis of Apache Hadoop: the Google File System (GFS), Bigtable and MapReduce.
+As the Internet rapidly developed in the late 90s, it soon became impractical for many enterprises to store and analyze all of their data on a single machine.</description>
+    </item>
+    
+  </channel>
+</rss>

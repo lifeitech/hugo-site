@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on ExampleSite</title>
+    <link>https://examplesite.com/categories/programming/</link>
+    <description>Recent content in Programming on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 11 Mar 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introducing BeeNote, a Full Stack Web App Built with Next.js 13</title>
+      <link>https://examplesite.com/posts/2023-03-11-beenote/</link>
+      <pubDate>Sat, 11 Mar 2023 09:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2023-03-11-beenote/</guid>
+      <description>Vercel released Next.js 13 at the end of October 2022, which was quite a big thing in frontend development. One of its biggest feature is the app directory for routing. I decided to try it out, so I built a full stack web application for taking language notes, with Next.js 13 + Tailwind + DaisyUI + PocketBase + AWS SES. In this post I will give you an introduction to this application.</description>
+    </item>
+    
+    <item>
+      <title>Building Cross-platform Mobile Apps with React Native</title>
+      <link>https://examplesite.com/posts/2023-01-18-pixel-weather/</link>
+      <pubDate>Wed, 18 Jan 2023 15:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2023-01-18-pixel-weather/</guid>
+      <description>I built a mobile app for checking weather &amp;ndash; called &amp;ldquo;Pixel Weather&amp;rdquo; &amp;ndash; with React Native. I will talk about cross-platform app development, and give a walkthrough of this project in this post.
+Cross Platform vs Native Development When it comes to cross-platform mobile app development, there are two main choices: one is Facebook&amp;rsquo;s React Native, and the other is Google&amp;rsquo;s Flutter. In the former, you use the React framework and write JavaScript code to develop your mobile app.</description>
+    </item>
+    
+    <item>
+      <title>All about SQL Queries</title>
+      <link>https://examplesite.com/posts/2022-06-01-sql/</link>
+      <pubDate>Wed, 01 Jun 2022 11:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-06-01-sql/</guid>
+      <description>This post serves as a reference for SQL syntax. We cover the most frequently used commands, including &amp;ldquo;case when&amp;rdquo;, &amp;ldquo;join&amp;rdquo; and functions.
+TOC {:toc} A database is a software for storing data. There are many many databases available. They can be broadly classified into two categories: one is relational database, including MySQL and PostgreSQL. They other category is non-relational database, including MongoDB, Cassandra, neo4j, Dgraph and many others. Here we are concerned with SQL, the common syntax for querying relational databases.</description>
+    </item>
+    
+    <item>
+      <title>Google&#39;s three big data technologies: GFS, Bigtable and MapReduce</title>
+      <link>https://examplesite.com/posts/2022-05-15-google-big-data/</link>
+      <pubDate>Sun, 15 May 2022 18:38:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-05-15-google-big-data/</guid>
+      <description>Have you wondered about the inner workings of big data? How parallel and distributed computing work? In this post we will have a look at Google&amp;rsquo;s three early works in the 2000s that are the basis of Apache Hadoop: the Google File System (GFS), Bigtable and MapReduce.
+As the Internet rapidly developed in the late 90s, it soon became impractical for many enterprises to store and analyze all of their data on a single machine.</description>
+    </item>
+    
+    <item>
+      <title>Julia in 15 Minutes</title>
+      <link>https://examplesite.com/posts/2022-05-03-julia/</link>
+      <pubDate>Tue, 03 May 2022 15:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-05-03-julia/</guid>
+      <description>Julia is a fast and elegant programming language. In this post, we record some of its syntax, and we talk about advanced topics like types, methods and metaprogramming with real examples. We also discuss some challenges that new users face for this language.
+In scientific computing, researchers need to use computers to simulate large and complex systems, from interaction of molecules to modeling of climate and the universe. This is distinct from data analytics or econometrics, where one often deals with small amount of data.</description>
+    </item>
+    
+    <item>
+      <title>Automate Your Routines with Task Scheduler</title>
+      <link>https://examplesite.com/posts/2022-02-04-windows-task-scheduler/</link>
+      <pubDate>Fri, 04 Feb 2022 10:33:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-02-04-windows-task-scheduler/</guid>
+      <description>If you are using the windows operating system, do you know you can use the Task Scheduler application to run tasks at specific time? In this post I will show you how to do this. We&amp;rsquo;ll also look at how to mute and unmute computer, play music, and open websites, all through the command line.
+Set up a task in Task Scheduler Type &amp;ldquo;task scheduler&amp;rdquo; in search bar. You should see the app appearing.</description>
+    </item>
+    
+    <item>
+      <title>Building a website with Jekyll and GitHub Pages</title>
+      <link>https://examplesite.com/posts/2022-01-06-build-a-static-website/</link>
+      <pubDate>Thu, 06 Jan 2022 18:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-01-06-build-a-static-website/</guid>
+      <description>An overview of the Jekyll framework, instructions about hosting your website on GitHub Pages, and a comparison among different options for writing technical blogs.
+The Jekyll Framework {: width=&amp;ldquo;800&amp;rdquo; height=&amp;ldquo;500&amp;rdquo; style=&amp;ldquo;max-width: 70%&amp;rdquo; .shadow}
+Jekyll is a website generator. It is a software package written in Ruby. To use it on your own machine, first install Ruby, and then install the package via Ruby gems:
+gem install jekyll bundler More detailed installation instructions are available on the official website:</description>
+    </item>
+    
+  </channel>
+</rss>

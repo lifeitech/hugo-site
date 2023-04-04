@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>html on ExampleSite</title>
+    <link>https://examplesite.com/tags/html/</link>
+    <description>Recent content in html on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Jan 2022 18:00:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a website with Jekyll and GitHub Pages</title>
+      <link>https://examplesite.com/posts/2022-01-06-build-a-static-website/</link>
+      <pubDate>Thu, 06 Jan 2022 18:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-01-06-build-a-static-website/</guid>
+      <description>An overview of the Jekyll framework, instructions about hosting your website on GitHub Pages, and a comparison among different options for writing technical blogs.
+The Jekyll Framework {: width=&amp;ldquo;800&amp;rdquo; height=&amp;ldquo;500&amp;rdquo; style=&amp;ldquo;max-width: 70%&amp;rdquo; .shadow}
+Jekyll is a website generator. It is a software package written in Ruby. To use it on your own machine, first install Ruby, and then install the package via Ruby gems:
+gem install jekyll bundler More detailed installation instructions are available on the official website:</description>
+    </item>
+    
+  </channel>
+</rss>

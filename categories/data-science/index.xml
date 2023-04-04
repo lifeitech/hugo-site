@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data Science on ExampleSite</title>
+    <link>https://examplesite.com/categories/data-science/</link>
+    <description>Recent content in Data Science on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Mar 2023 09:00:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/categories/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT has taken the world by storm. What&#39;s Next?</title>
+      <link>https://examplesite.com/posts/2023-03-29-chatgpt/</link>
+      <pubDate>Wed, 29 Mar 2023 09:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2023-03-29-chatgpt/</guid>
+      <description>In this post, we talk about the techniques behind ChatGPT. We discuss possible applications around ChatGPT, and the impacts that it will bring to society.
+On April 11, 2022, I wrote this:
+&amp;ldquo;While current models may still have limited capacity, I&amp;rsquo;m optimistic that, we should see better and better AI models coming out in the future, and one day machines can have enough intelligence to handle tasks and jobs we do today.</description>
+    </item>
+    
+    <item>
+      <title>The REINFORCE Algorithm</title>
+      <link>https://examplesite.com/posts/2022-04-30-reinforce-algorithm/</link>
+      <pubDate>Sat, 30 Apr 2022 16:30:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-04-30-reinforce-algorithm/</guid>
+      <description>In this short post, we give an introduction to the REINFORCE algorithm.
+The REINFORCE algorithm {% cite williams1992simple %} is a method used to evaluate parameter gradients of an expectation that does not depend on the parameter in a differentiable way. It comes from reinforcement learning. In such a setting, an agent is in an environment represented by a set of states, and each of his action leads to a reward and the next state.</description>
+    </item>
+    
+    <item>
+      <title>Attention and Transformers</title>
+      <link>https://examplesite.com/posts/2022-04-11-attention-and-transformers/</link>
+      <pubDate>Mon, 11 Apr 2022 22:30:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-04-11-attention-and-transformers/</guid>
+      <description>In recent years, Transformer-based models are trending and are quickly taking up not only the field of NLP, but also computer vision and many other fields in AI. In this post, we give a tutorial on Transformer, and talk about several state of the arts models based on it, including GPT and BERT.
+The Attention Model Even with LSTM units, problems remain for recurrent neural network models:
+Passing data forward through an extended series of recurrent connections leads to loss of information and to difficulties in training.</description>
+    </item>
+    
+    <item>
+      <title>RNN, LSTM and GRU</title>
+      <link>https://examplesite.com/posts/2022-04-08-rnn/</link>
+      <pubDate>Fri, 08 Apr 2022 22:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-04-08-rnn/</guid>
+      <description>In this post we introduce the recurrent neural network (RNN) model in natural language processing (NLP), as well as two improvements over it, long short-term memories (LSTM) and gated recurrent units (GRU).
+Natural languages are non-linear. Flows of words and sentences in texts often do not follow simple and predictable patterns. The probability of a word appearing at position $i$ may depend on some words at very far past, instead of always depending on 2 or 3 words behind it.</description>
+    </item>
+    
+    <item>
+      <title>Sequence Labeling with HMM and CRF</title>
+      <link>https://examplesite.com/posts/2022-03-26-sequence-labeling/</link>
+      <pubDate>Sat, 26 Mar 2022 09:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-03-26-sequence-labeling/</guid>
+      <description>Sequence labeling is a classical task in natural language processing. In this task, a program is expected to recognize certain information given a piece of text. This is challenging, because even though input data items in real application can look similar, there may be small variations here and there that are comprehensible to humans but nevertheless are not present in other data items, so that it is difficult to use hard coded rules for solving the problem.</description>
+    </item>
+    
+    <item>
+      <title>Embeddings and the word2vec Method</title>
+      <link>https://examplesite.com/posts/2022-03-20-embedding-and-word2vec/</link>
+      <pubDate>Sun, 20 Mar 2022 09:00:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-03-20-embedding-and-word2vec/</guid>
+      <description>On its surface, words are not numbers. But words have similarities, differences, associations, relations and connections. For example, &amp;lsquo;&amp;lsquo;man&amp;rsquo;&amp;rsquo; and &amp;lsquo;&amp;lsquo;woman&amp;rsquo;&amp;rsquo; are words that describe humans, while &amp;lsquo;&amp;lsquo;apple&amp;rsquo;&amp;rsquo; and &amp;lsquo;&amp;lsquo;watermelon&amp;rsquo;&amp;rsquo; are fruit names. The flow of words in an article always follow certain rules. How to quantify a word so as to reflex its relationship with other words, as well as its statistics in training text data? In this post, we&amp;rsquo;ll look at word embeddings, i.</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing, Probabilities and the n-gram Model</title>
+      <link>https://examplesite.com/posts/2022-03-05-nlp-prob-ngram/</link>
+      <pubDate>Sat, 05 Mar 2022 16:20:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-03-05-nlp-prob-ngram/</guid>
+      <description>This is the first one of a series of posts on Natural Language Processing (NLP). We give an introduction to the subject, mention two model evaluation methods, see how to assign probabilities to words and sentences, and learn the most basic model &amp;mdash;&amp;mdash; the n-gram model in NLP.
+Introduction The field of Natural Language Processing (NLP) is concerned with automatic processing of language data. It arose with the widespread usage of the Internet.</description>
+    </item>
+    
+    <item>
+      <title>Noise Contrastive Estimation</title>
+      <link>https://examplesite.com/posts/2022-02-20-nce/</link>
+      <pubDate>Sun, 20 Feb 2022 15:20:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-02-20-nce/</guid>
+      <description>Noise contrastive estimation (NCE) is a method to estimate high dimensional data distributions. It converts a generative learning problem to a discriminative learning one. Parameters of the distribution are learned by doing a classification between data and noise. In this post, we introduce NCE in detail, in the setting of estimating energy models.
+The problem that NCE [1] addresses is to estimate some data density $p_\theta(x)$. It can be used to estimate language models [2], in which case an input $x$ is a word in a dictionary, and the probability is a conditional probability that conditions on some context of the input, for example certain amount of words preceeding the input in some training corpus.</description>
+    </item>
+    
+    <item>
+      <title>Generative Models: from Noise to Data</title>
+      <link>https://examplesite.com/posts/2022-01-15-generative-models/</link>
+      <pubDate>Sat, 15 Jan 2022 13:25:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-01-15-generative-models/</guid>
+      <description>In this post I give an introduction to several generative models in deep learning literature, including adversarial networks (GANs), variational autoencoder (VAE) and flow models. I also derive the formula for evaluating flow densities on generated samples.
+Deep generative models concern the problem of finding high dimensional data distribution, and new data generation. There are four major types of generative models in the literature: generative adversarial networks (GANs) [1], variational autoencoder (VAE) [2], normalizing flows [3,4,5], plus autoregressive models [6].</description>
+    </item>
+    
+  </channel>
+</rss>

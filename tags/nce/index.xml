@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nce on ExampleSite</title>
+    <link>https://examplesite.com/tags/nce/</link>
+    <description>Recent content in nce on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Feb 2022 15:20:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/nce/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Noise Contrastive Estimation</title>
+      <link>https://examplesite.com/posts/2022-02-20-nce/</link>
+      <pubDate>Sun, 20 Feb 2022 15:20:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-02-20-nce/</guid>
+      <description>Noise contrastive estimation (NCE) is a method to estimate high dimensional data distributions. It converts a generative learning problem to a discriminative learning one. Parameters of the distribution are learned by doing a classification between data and noise. In this post, we introduce NCE in detail, in the setting of estimating energy models.
+The problem that NCE [1] addresses is to estimate some data density $p_\theta(x)$. It can be used to estimate language models [2], in which case an input $x$ is a word in a dictionary, and the probability is a conditional probability that conditions on some context of the input, for example certain amount of words preceeding the input in some training corpus.</description>
+    </item>
+    
+  </channel>
+</rss>

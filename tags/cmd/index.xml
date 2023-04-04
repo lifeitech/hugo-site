@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cmd on ExampleSite</title>
+    <link>https://examplesite.com/tags/cmd/</link>
+    <description>Recent content in cmd on ExampleSite</description>
+    <image>
+      <title>ExampleSite</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 04 Feb 2022 10:33:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/cmd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Your Routines with Task Scheduler</title>
+      <link>https://examplesite.com/posts/2022-02-04-windows-task-scheduler/</link>
+      <pubDate>Fri, 04 Feb 2022 10:33:00 +0800</pubDate>
+      
+      <guid>https://examplesite.com/posts/2022-02-04-windows-task-scheduler/</guid>
+      <description>If you are using the windows operating system, do you know you can use the Task Scheduler application to run tasks at specific time? In this post I will show you how to do this. We&amp;rsquo;ll also look at how to mute and unmute computer, play music, and open websites, all through the command line.
+Set up a task in Task Scheduler Type &amp;ldquo;task scheduler&amp;rdquo; in search bar. You should see the app appearing.</description>
+    </item>
+    
+  </channel>
+</rss>
