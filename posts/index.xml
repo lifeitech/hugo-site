@@ -10,7 +10,18 @@
       <link>https://lifei.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ChatGPT has taken the world by storm. What&#39;s Next?</title>
+      <link>https://lifei.tech/posts/chatgpt/</link>
+      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lifei.tech/posts/chatgpt/</guid>
+      <description>On April 11, 2022, I wrote this:
+&amp;ldquo;While current models may still have limited capacity, I&amp;rsquo;m optimistic that, we should see better and better AI models coming out in the future, and one day machines can have enough intelligence to handle tasks and jobs we do today.&amp;rdquo;
+7 months later, OpenAI released ChatGPT, the performance of which has stunned the public. It can chat, write stories, debug code&amp;hellip;there hasn&amp;rsquo;t been a chatbot that is so intelligent and so fluent in dialogues with human.</description>
+    </item>
+    
     <item>
       <title>Why I Switched to Hugo</title>
       <link>https://lifei.tech/posts/jekyll-to-hugo/</link>
@@ -28,7 +39,7 @@ Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rs
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lifei.tech/posts/past-posts/</guid>
-      <description>https://lifeitech.github.io</description>
+      <description>See here 👉https://lifeitech.github.io</description>
     </item>
     
   </channel>
