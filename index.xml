@@ -10,13 +10,14 @@
       <link>https://lifei.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ChatGPT has taken the world by storm. What&#39;s Next?</title>
-      <link>https://lifei.tech/posts/chatgpt/</link>
+      <link>https://lifei.tech/posts/2023-04-06-chatgpt/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/posts/chatgpt/</guid>
+      <guid>https://lifei.tech/posts/2023-04-06-chatgpt/</guid>
       <description>On April 11, 2022, I wrote this:
 &amp;ldquo;While current models may still have limited capacity, I&amp;rsquo;m optimistic that, we should see better and better AI models coming out in the future, and one day machines can have enough intelligence to handle tasks and jobs we do today.&amp;rdquo;
 7 months later, OpenAI released ChatGPT, the performance of which has stunned the public. It can chat, write stories, debug code&amp;hellip;there hasn&amp;rsquo;t been a chatbot that is so intelligent and so fluent in dialogues with human.</description>
@@ -24,10 +25,10 @@
     
     <item>
       <title>Why I Switched to Hugo</title>
-      <link>https://lifei.tech/posts/jekyll-to-hugo/</link>
+      <link>https://lifei.tech/posts/2023-04-04-jekyll-to-hugo/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/posts/jekyll-to-hugo/</guid>
+      <guid>https://lifei.tech/posts/2023-04-04-jekyll-to-hugo/</guid>
       <description>Previously, I built my website with Jekyll. After careful consideration, now I decide to switch to Hugo. The reason is straightforward:
 Speed.
 Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rsquo;s official website. My initial reasons for choosing Jekyll include its integration with GitHub Pages, good documentation, wide range of themes and plugins. But when I have some 20 posts, it takes me 5~6+ seconds to build the site, and it takes around 4 seconds for saving edits in live preview, which is almost unbearable!</description>
@@ -35,10 +36,10 @@ Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rs
     
     <item>
       <title>Past Blog Posts</title>
-      <link>https://lifei.tech/posts/past-posts/</link>
+      <link>https://lifei.tech/posts/2023-04-03-past-posts/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/posts/past-posts/</guid>
+      <guid>https://lifei.tech/posts/2023-04-03-past-posts/</guid>
       <description>See here 👉https://lifeitech.github.io</description>
     </item>
     
