@@ -18,9 +18,9 @@
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>https://lifei.tech/posts/2023-04-04-jekyll-to-hugo/</guid>
-      <description>Previously, I built my website with Jekyll. After careful consideration, now I decide to switch to Hugo. The reason is straightforward:
+      <description>Previously, I use Jekyll to build my website. After careful consideration, now I decide to switch to Hugo. The main reason is straightforward:
 Speed.
-Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rsquo;s official website. My initial reasons for choosing Jekyll include its integration with GitHub Pages, good documentation, wide range of themes and plugins. But when I have some 20 posts, it takes me 5~6+ seconds to build the site, and it takes around 4 seconds for saving edits in live preview, which is almost unbearable!</description>
+Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rsquo;s official website. My initial reasons for choosing Jekyll include its integration with GitHub Pages, good documentation, wide range of themes and plugins. But when I have some 20 posts, it takes me 5~6+ seconds to build the site, and it takes around 4 seconds for reflecting edits in live preview, which is almost unbearable!</description>
     </item>
     
   </channel>
