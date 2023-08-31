@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Better Transformers</title>
+      <link>https://lifei.tech/posts/2023-08-31-better-transformers/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://lifei.tech/posts/2023-08-31-better-transformers/</guid>
+      <description>In this post we will look at several techniques that are commonly employed in many popular open source large language models (LLMs) today, for example Llama, ChatGLM2-6B, Qwen-7B and Baichuan-7B. Specifically, we will talk about two layers, SwiGLU and RMSNorm; two position embedding methods: Rotary Position Embedding (RoPE) and ALiBi; and finally a technique for scaling attention calculation to long sequences &amp;ndash; Flash Attention. We will use Llama source code as example implementation, and in the end we will walk through the rest of Llama&amp;rsquo;s source code.</description>
+    </item>
+    
     <item>
       <title>ChatGPT has taken the world by storm. What&#39;s Next?</title>
       <link>https://lifei.tech/posts/2023-04-06-chatgpt/</link>

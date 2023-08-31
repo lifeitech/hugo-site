@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>transformer on ExampleSite</title>
-    <link>https://examplesite.com/tags/transformer/</link>
-    <description>Recent content in transformer on ExampleSite</description>
+    <title>transformer on Fei Li&#39;s Website</title>
+    <link>https://lifei.tech/tags/transformer/</link>
+    <description>Recent content in transformer on Fei Li&#39;s Website</description>
     <image>
-      <title>ExampleSite</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Fei Li&#39;s Website</title>
+      <url>https://lifei.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lifei.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Apr 2022 22:30:00 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/tags/transformer/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Attention and Transformers</title>
-      <link>https://examplesite.com/posts/2022-04-11-attention-and-transformers/</link>
-      <pubDate>Mon, 11 Apr 2022 22:30:00 +0800</pubDate>
+      <title>Better Transformers</title>
+      <link>https://lifei.tech/posts/2023-08-31-better-transformers/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/2022-04-11-attention-and-transformers/</guid>
-      <description>In recent years, Transformer-based models are trending and are quickly taking up not only the field of NLP, but also computer vision and many other fields in AI. In this post, we give a tutorial on Transformer, and talk about several state of the arts models based on it, including GPT and BERT.
-The Attention Model Even with LSTM units, problems remain for recurrent neural network models:
-Passing data forward through an extended series of recurrent connections leads to loss of information and to difficulties in training.</description>
+      <guid>https://lifei.tech/posts/2023-08-31-better-transformers/</guid>
+      <description>In this post we will look at several techniques that are commonly employed in many popular open source large language models (LLMs) today, for example Llama, ChatGLM2-6B, Qwen-7B and Baichuan-7B. Specifically, we will talk about two layers, SwiGLU and RMSNorm; two position embedding methods: Rotary Position Embedding (RoPE) and ALiBi; and finally a technique for scaling attention calculation to long sequences &amp;ndash; Flash Attention. We will use Llama source code as example implementation, and in the end we will walk through the rest of Llama&amp;rsquo;s source code.</description>
     </item>
     
   </channel>
