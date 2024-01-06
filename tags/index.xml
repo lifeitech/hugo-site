@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Fei Li&#39;s Website</title>
-    <link>https://lifei.tech/tags/</link>
+    <link>https://lifeitech.vercel.app/tags/</link>
     <description>Recent content in Tags on Fei Li&#39;s Website</description>
     <image>
       <title>Fei Li&#39;s Website</title>
-      <url>https://lifei.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lifei.tech/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lifeitech.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lifeitech.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifei.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifeitech.vercel.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>attention</title>
-      <link>https://lifei.tech/tags/attention/</link>
+      <link>https://lifeitech.vercel.app/tags/attention/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/attention/</guid>
+      <guid>https://lifeitech.vercel.app/tags/attention/</guid>
       <description></description>
     </item>
     
     <item>
       <title>llama</title>
-      <link>https://lifei.tech/tags/llama/</link>
+      <link>https://lifeitech.vercel.app/tags/llama/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/llama/</guid>
+      <guid>https://lifeitech.vercel.app/tags/llama/</guid>
       <description></description>
     </item>
     
     <item>
       <title>llm</title>
-      <link>https://lifei.tech/tags/llm/</link>
+      <link>https://lifeitech.vercel.app/tags/llm/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/llm/</guid>
+      <guid>https://lifeitech.vercel.app/tags/llm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>transformer</title>
-      <link>https://lifei.tech/tags/transformer/</link>
+      <link>https://lifeitech.vercel.app/tags/transformer/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/transformer/</guid>
+      <guid>https://lifeitech.vercel.app/tags/transformer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chatgpt</title>
-      <link>https://lifei.tech/tags/chatgpt/</link>
+      <link>https://lifeitech.vercel.app/tags/chatgpt/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/chatgpt/</guid>
+      <guid>https://lifeitech.vercel.app/tags/chatgpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gpt</title>
-      <link>https://lifei.tech/tags/gpt/</link>
+      <link>https://lifeitech.vercel.app/tags/gpt/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/gpt/</guid>
+      <guid>https://lifeitech.vercel.app/tags/gpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nlp</title>
-      <link>https://lifei.tech/tags/nlp/</link>
+      <link>https://lifeitech.vercel.app/tags/nlp/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/nlp/</guid>
+      <guid>https://lifeitech.vercel.app/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://lifei.tech/tags/hugo/</link>
+      <link>https://lifeitech.vercel.app/tags/hugo/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/hugo/</guid>
+      <guid>https://lifeitech.vercel.app/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web dev</title>
-      <link>https://lifei.tech/tags/web-dev/</link>
+      <link>https://lifeitech.vercel.app/tags/web-dev/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://lifei.tech/tags/web-dev/</guid>
+      <guid>https://lifeitech.vercel.app/tags/web-dev/</guid>
       <description></description>
     </item>
     
