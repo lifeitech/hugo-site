@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Fei Li&#39;s Website</title>
-    <link>https://lifeitech.vercel.app/categories/</link>
+    <link>https://lifei.ai/categories/</link>
     <description>Recent content in Categories on Fei Li&#39;s Website</description>
     <image>
       <title>Fei Li&#39;s Website</title>
-      <url>https://lifeitech.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://lifeitech.vercel.app/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://lifei.ai/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://lifeitech.vercel.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lifei.ai/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
