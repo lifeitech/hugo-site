@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>attention on Fei Li&#39;s Website</title>
     <link>https://lifeitech.vercel.app/tags/attention/</link>
@@ -11,15 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://lifeitech.vercel.app/tags/attention/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lifeitech.vercel.app/tags/attention/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Better Transformers</title>
       <link>https://lifeitech.vercel.app/posts/2023-08-31-better-transformers/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://lifeitech.vercel.app/posts/2023-08-31-better-transformers/</guid>
-      <description>In this post we will look at several techniques that are commonly employed in many popular open source large language models (LLMs) today, for example Llama, ChatGLM2-6B, Qwen-7B and Baichuan-7B. Specifically, we will talk about two layers, SwiGLU and RMSNorm; two position embedding methods: Rotary Position Embedding (RoPE) and ALiBi; and finally a technique for scaling attention calculation to long sequences &amp;ndash; Flash Attention. We will use Llama source code as example implementation, and in the end we will walk through the rest of Llama&amp;rsquo;s source code.</description>
+      <description>In this post I will walk through the transformer layer and several improvements over this architecture that are commonly employed in many popular open source large language models (LLMs) today, for example Llama. Discussed include SwiGLU and RMSNorm layers, RoPE and ALiBi position embeddings; and finally Flash Attention for scaling attention calculation to long sequences. We will use Llama source code as example implementation, and toward the end I&amp;rsquo;ll go through the rest of Llama&amp;rsquo;s source code.</description>
     </item>
-    
   </channel>
 </rss>
