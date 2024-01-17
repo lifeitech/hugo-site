@@ -39,10 +39,10 @@ Speed.
 Jekyll does not scale It all looks nice and great when you look at Jekyll&amp;rsquo;s official website. My initial reasons for choosing Jekyll include its integration with GitHub Pages, good documentation, wide range of themes and plugins. But when I have some 20 posts, it takes me 5~6+ seconds to build the site, and it takes around 4 seconds for reflecting edits in live preview, which is almost unbearable!</description>
     </item>
     <item>
-      <title>Past Blog Posts</title>
-      <link>https://lifei.ai/posts/2023-04-03-past-posts/</link>
+      <title>Previous Blog Posts</title>
+      <link>https://lifei.ai/posts/2023-04-03-previous-posts/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://lifei.ai/posts/2023-04-03-past-posts/</guid>
+      <guid>https://lifei.ai/posts/2023-04-03-previous-posts/</guid>
       <description>See here 👉https://lifeitech.github.io</description>
     </item>
   </channel>
