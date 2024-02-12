@@ -11,8 +11,29 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://lifei.ai/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>diffusion</title>
+      <link>https://lifei.ai/tags/diffusion/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/tags/diffusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>transformer</title>
+      <link>https://lifei.ai/tags/transformer/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/tags/transformer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vision</title>
+      <link>https://lifei.ai/tags/vision/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://lifei.ai/tags/vision/</guid>
+      <description></description>
+    </item>
     <item>
       <title>attention</title>
       <link>https://lifei.ai/tags/attention/</link>
@@ -32,13 +53,6 @@
       <link>https://lifei.ai/tags/llm/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://lifei.ai/tags/llm/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>transformer</title>
-      <link>https://lifei.ai/tags/transformer/</link>
-      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://lifei.ai/tags/transformer/</guid>
       <description></description>
     </item>
     <item>

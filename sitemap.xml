@@ -2,28 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://lifei.ai/tags/diffusion/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.ai/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.ai/posts/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.ai/tags/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.ai/tags/transformer/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.ai/tags/vision/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lifei.ai/posts/2024-02-12-vision-models/</loc>
+    <lastmod>2024-02-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lifei.ai/tags/attention/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lifei.ai/posts/2023-08-31-better-transformers/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lifei.ai/</loc>
-    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lifei.ai/tags/llama/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lifei.ai/tags/llm/</loc>
-    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lifei.ai/posts/</loc>
-    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lifei.ai/tags/</loc>
-    <lastmod>2023-08-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lifei.ai/tags/transformer/</loc>
     <lastmod>2023-08-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lifei.ai/tags/chatgpt/</loc>
